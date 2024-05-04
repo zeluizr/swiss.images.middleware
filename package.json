@@ -1,0 +1,15 @@
+{
+  "name": "swiss.images.middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zeluizr/swiss.images.middleware.git",
+  "author": "Jose Luiz Rodrigues <zeluizr@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "dev": "npx nodemon index.js",
+    "start": "node index.js"
+  }
+}
